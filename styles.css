@@ -4,13 +4,13 @@
 }
 .cont1{
 	padding:2px;
-	border:none;
-	background-color:none;
+	border:1px;
+	background-color:white;
 }
 .cont2{
 	padding:2px;
-	border:none;
-	background-color:none;
+	border:1px;
+	background-color:white;
 }
 .down{
 	text-align:right;
